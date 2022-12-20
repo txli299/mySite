@@ -54,7 +54,6 @@ My personal portfolio webpage
 <!-- CONTACT -->
 ## Contact
 Tuoxin Li - li.tuox@northeastern.edu
-Ruijia Xiong - Xiong.ru@northeastern.edu
 
 Project Link: [https://github.com/txli299/Aircnc](https://github.com/txli299/Aircnc)
 
