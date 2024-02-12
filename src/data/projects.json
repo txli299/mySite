@@ -1,0 +1,23 @@
+[
+  {
+    "title": "PowerUp mobile app",
+    "imageSrc": "projects/project1.png",
+    "description": "An iOS app for remote machine activation.",
+    "skills": ["Swift", "Java", "MongoDB"],
+    "source": "https://github.com/txli299/PowerUp"
+  },
+  {
+    "title": "Facial recognition web",
+    "imageSrc": "projects/project2.png",
+    "description": "A AI driven web app to recognize face similarities.",
+    "skills": ["JavaScript", "Java", "Python", "AWS"],
+    "source": "https://github.com/txli299/FaceRecognition"
+  },
+  {
+    "title": "Google canlendar clone",
+    "imageSrc": "projects/project3.png",
+    "description": "A react web app 100% cloned from google canlendar.",
+    "skills": ["React", "TailwindCss", "Node"],
+    "source": "https://github.com/txli299/google-calendar-clone"
+  }
+]

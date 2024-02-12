@@ -1,0 +1,46 @@
+[
+  {
+    "title": "JAVA",
+    "imageSrc": "skills/html.png"
+  },
+  {
+    "title": "Python",
+    "imageSrc": "skills/css.png"
+  },
+  {
+    "title": "React",
+    "imageSrc": "skills/react.png"
+  },
+  {
+    "title": "Node",
+    "imageSrc": "skills/node.png"
+  },
+  {
+    "title": "SQL",
+    "imageSrc": "skills/graphql.png"
+  },
+  {
+    "title": "MongoDB",
+    "imageSrc": "skills/mongodb.png"
+  },
+  {
+    "title": "Swift",
+    "imageSrc": "skills/swift.png"
+  },
+  {
+    "title": "Docker",
+    "imageSrc": "skills/figma.png"
+  },
+  {
+    "title": "C#",
+    "imageSrc": "skills/csharp.png"
+  },
+  {
+    "title": "redis",
+    "imageSrc": "skills/redis.png"
+  },
+  {
+    "title": "flutter",
+    "imageSrc": "skills/flutter.png"
+  }
+]
